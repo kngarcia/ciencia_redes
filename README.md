@@ -1,4 +1,4 @@
-#Analizador de Redes Sociales - Instagram
+# Analizador de Redes Sociales - Instagram
 
 Descripción:
 Sistema de análisis de redes sociales que procesa datos de exportación de Instagram para crear grafos sociales, analizar comportamientos digitales y encontrar conexiones entre múltiples usuarios. Perfecto para análisis de ciencia de redes, sociología digital y estudios de comportamiento en redes sociales.
@@ -61,8 +61,7 @@ bash
 
 pip install -r requirements.txt
 
-📁 Estructura del Proyecto
-text
+Estructura del Proyecto
 
 instagram_graph_analysis/
 ├── data/                   # Datos de usuarios
