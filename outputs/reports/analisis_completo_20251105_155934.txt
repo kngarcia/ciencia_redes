@@ -1,0 +1,134 @@
+================================================================================
+ANÁLISIS COMPLETO DE REDES SOCIALES - INSTAGRAM
+================================================================================
+
+INFORMACIÓN DEL ANÁLISIS:
+----------------------------------------
+Usuarios analizados: Kevin, Nicolas, Sara
+Fecha de análisis: 2025-11-05 15:59:34
+Total de nodos en red combinada: 1875
+Total de conexiones: 1926
+
+PERFILES INDIVIDUALES DE USUARIOS:
+==================================================
+
+👤 KEVIN:
+------------------------------
+ MÉTRICAS DE RED:
+   • Seguidores: 17
+   • Siguiendo: 146
+   • Relaciones mutuas: 15
+   • Ratio seguimiento: 0.12
+   • Densidad de red: 0.004
+
+  INTERACCIONES:
+   • Autores likeados: 110
+   • Total likes dados: 134
+   • Stories interactuados: 15
+   • Tasa de engagement: 1.17
+
+ INFLUENCIA:
+   • Score de influencia: 57.2
+   • Alcance de red: 238 usuarios
+   • Centralidad: 1.063
+
+ AUTORES MÁS LIKEADOS:
+   • bytinostoic (7 likes)
+   • usacienciaseingenieria (5 likes)
+   • motivatecaballeros (3 likes)
+   • jul_sofiap (3 likes)
+   • midu.dev (2 likes)
+
+
+👤 NICOLAS:
+------------------------------
+ MÉTRICAS DE RED:
+   • Seguidores: 17
+   • Siguiendo: 387
+   • Relaciones mutuas: 6
+   • Ratio seguimiento: 0.04
+   • Densidad de red: 0.002
+  INTERACCIONES:
+   • Autores likeados: 13
+   • Total likes dados: 13
+   • Stories interactuados: 1
+   • Tasa de engagement: 0.04
+
+ INFLUENCIA:
+   • Score de influencia: 11.8
+   • Alcance de red: 408 usuarios
+   • Centralidad: 1.015
+
+ AUTORES MÁS LIKEADOS:
+   • curlysigma_ (1 likes)
+   • edunuel_tarots (1 likes)
+   • dra.valeriarobles_ (1 likes)
+   • aramirezasyn (1 likes)
+   • paracaballerosoficial (1 likes)
+
+
+ SARA:
+------------------------------
+ MÉTRICAS DE RED:
+   • Seguidores: 32
+   • Siguiendo: 271
+   • Relaciones mutuas: 30
+   • Ratio seguimiento: 0.12
+   • Densidad de red: 0.001
+
+  INTERACCIONES:
+   • Autores likeados: 1027
+   • Total likes dados: 1329
+   • Stories interactuados: 0
+   • Tasa de engagement: 4.90
+
+ INFLUENCIA:
+   • Score de influencia: 336.6
+   • Alcance de red: 1229 usuarios
+   • Centralidad: 1.024
+
+AUTORES MÁS LIKEADOS:
+   • emilyalfonso_89 (17 likes)
+   • flverdesperanza (16 likes)
+   • eri_jcn (15 likes)
+   • bylulu02 (12 likes)
+   • kicks.colombia (11 likes)
+
+ANÁLISIS DE CONEXIONES ENTRE USUARIOS:
+==================================================
+
+ CONEXIONES DIRECTAS:
+
+ CONEXIONES COMUNES:
+
+   Kevin & Nicolas:
+   • Puntuación de similitud: 1 puntos comunes
+   • Seguidos en común: 1
+     centrodeidiomas_usa
+
+   Kevin & Sara:
+   • Puntuación de similitud: 1 puntos comunes
+   • Autores likeados en común: 1
+     callmeguilen
+
+   Nicolas & Sara:
+   • Puntuación de similitud: 0 puntos comunes
+
+ NODOS PUENTE (Conexiones más importantes):
+   • centrodeidiomas_usa (conecta 2 usuarios)
+   • callmeguilen (conecta 2 usuarios)
+   • usergioarboleda (conecta 2 usuarios)
+
+ANÁLISIS DE SIMILITUD:
+==================================================
+
+ MATRIZ DE SIMILITUD (Coeficiente de Jaccard):
+
+            Kevin    Nicolas       Sara
+ Kevin       -         0.002      0.001  
+Nicolas     0.002        -         0.001  
+  Sara     0.001      0.001        -     
+
+ PAR MÁS SIMILAR: Kevin & Nicolas
+   Similitud: 0.2%
+   🔄 BAJA SIMILITUD: Círculos sociales e intereses diferentes

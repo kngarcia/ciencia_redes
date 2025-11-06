@@ -1,0 +1,6 @@
+# igonorar carpeta de entornos virtuales
+ig/
+
+# ignorar archivos de caché de Python]
+src/__pycache__/
+

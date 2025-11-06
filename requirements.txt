@@ -1,0 +1,13 @@
+# Análisis de grafos y redes
+networkx==3.1
+python-igraph==0.10.6
+scipy==1.16.3
+
+# Visualización
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Procesamiento de datos
+pandas==2.0.3
+numpy==1.24.3
